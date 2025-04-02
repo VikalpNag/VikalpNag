@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Blockchain Developer | 🔗 Building the Future of Web3 | 💡 Smart Contracts, DApps & DeFi | 🌐 Bridging Web2 & Web3 with Scalable Solutions | ⛓️ Solidity, Ethereum, and Beyond 🔥</h3>
 
 <!-- Lottie Animation -->
-<p align="center">
-    <lottie-player src="https://raw.githubusercontent.com/VikalpNag/VikalpNag/main/Animation-1743570515468.json" 
-        background="transparent" speed="1" style="width: 400px; height: 400px;" loop autoplay>
-    </lottie-player>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikalpnag&label=Profile%20views&color=0e75b6&style=flat" alt="vikalpnag" /> </p>
