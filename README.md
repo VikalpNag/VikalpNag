@@ -1,5 +1,5 @@
+<h1 align="center">Hi 👋, It’s a pleasure to see you here.</h1>
 <img src="Artboard 7@webdesign.jpg" alt=""/>
-<h1 align="center">Hi 👋, I'm Vikalp Nag</h1>
 <h3 align="center">🚀 Blockchain Developer | 🔗 Building the Future of Web3 | 💡 Smart Contracts, DApps & DeFi | 🌐 Bridging Web2 & Web3 with Scalable Solutions | ⛓️ Solidity, Ethereum, and Beyond 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikalpnag&label=Profile%20views&color=0e75b6&style=flat" alt="vikalpnag" /> </p>
