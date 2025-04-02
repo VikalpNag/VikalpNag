@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikalp Nag</h1>
 <h3 align="center">🚀 Blockchain Developer | 🔗 Building the Future of Web3 | 💡 Smart Contracts, DApps & DeFi | 🌐 Bridging Web2 & Web3 with Scalable Solutions | ⛓️ Solidity, Ethereum, and Beyond 🔥</h3>
-
-<!-- Lottie Animation -->
-<p align=”center”>
-<img width=”200" height=”200" src=”https://github.com/VikalpNag/VikalpNag/blob/main/github-header-image.png" alt=”my banner”>
-</p>
-
+<img src="github-header-image.png" alt=""/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikalpnag&label=Profile%20views&color=0e75b6&style=flat" alt="vikalpnag" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikalpnag" alt="vikalpnag" /></a> </p>
