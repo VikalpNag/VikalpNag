@@ -1,4 +1,4 @@
-<img src="github-header-image.png" alt=""/>
+<img src="Artboard 7@webdesign.jpg" alt=""/>
 <h1 align="center">Hi 👋, I'm Vikalp Nag</h1>
 <h3 align="center">🚀 Blockchain Developer | 🔗 Building the Future of Web3 | 💡 Smart Contracts, DApps & DeFi | 🌐 Bridging Web2 & Web3 with Scalable Solutions | ⛓️ Solidity, Ethereum, and Beyond 🔥</h3>
 
