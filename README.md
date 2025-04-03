@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, It’s a pleasure to see you here.</h1>
+<h1 align="center">Hey there 👋, It’s a pleasure to see you here.</h1>
 <img src="Vikalp.png" alt="" class="center"/>
 <h3 align="center">🚀 Blockchain Developer | 🔗 Building the Future of Web3 | 💡 Smart Contracts, DApps & DeFi | 🌐 Bridging Web2 & Web3 with Scalable Solutions | ⛓️ Solidity, Ethereum, and Beyond 🔥</h3>
 
