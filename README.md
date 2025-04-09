@@ -8,6 +8,10 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa99/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa99/512.gif" alt="🪙" width="32" height="32">
 </picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">
+</picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikalpnag&label=Profile%20views&color=0e75b6&style=flat" alt="vikalpnag" /> </p>
 
