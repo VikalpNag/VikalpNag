@@ -4,6 +4,10 @@
 </picture>Hey there 👋, it’s a pleasure to have you here.</h1>
 <img src="Vikalp.png" alt="" class="center"/>
 <h3 align="center">🚀 Blockchain Developer | 🔗 Building the Future of Web3 | 💡 Smart Contracts, DApps & DeFi | 🌐 Bridging Web2 & Web3 with Scalable Solutions | ⛓️ Solidity, Ethereum, and Beyond 🔥</h3>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa99/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa99/512.gif" alt="🪙" width="32" height="32">
+</picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikalpnag&label=Profile%20views&color=0e75b6&style=flat" alt="vikalpnag" /> </p>
 
