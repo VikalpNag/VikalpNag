@@ -1,4 +1,5 @@
-<h1 align="center"><picture>
+<h1 align="center">
+  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f987/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f987/512.gif" alt="🦇" width="32" height="32">
 </picture>Hey there 👋, it’s a pleasure to have you here.</h1>
